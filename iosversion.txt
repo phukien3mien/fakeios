@@ -1,1 +1,1 @@
-Fake VPN England/Canada then active with ICCID 5379 
+Update 15.4 (19E5219e). Mode TMSI ICCID Manual
