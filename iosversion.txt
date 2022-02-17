@@ -1,1 +1,1 @@
-Update 15.4 (19E5219e). Perfect except ATT/AU/US-GSM
+Update 15.4 (19E5219e). Perfect All Carrier
