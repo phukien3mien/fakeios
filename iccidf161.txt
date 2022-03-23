@@ -1,1 +1,1 @@
- ICCID Perfect Mode (No need VPN): 8901 4103 2704 2157 8519
+ TMSI ICCID Manual (Perfect except ATT/AU/US-GSM):8901 4103 2704 2160 2277
